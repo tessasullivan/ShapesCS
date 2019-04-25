@@ -1,0 +1,17 @@
+/Users/tessa/Documents/Epicodus/02 C#/Week01/Shapes.Solution/Shapes.Test/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/tessa/Documents/Epicodus/02 C#/Week01/Shapes.Solution/Shapes.Test/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/tessa/Documents/Epicodus/02 C#/Week01/Shapes.Solution/Shapes.Test/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/tessa/Documents/Epicodus/02 C#/Week01/Shapes.Solution/Shapes.Test/bin/Debug/netcoreapp2.2/Shapes.Tests.deps.json
+/Users/tessa/Documents/Epicodus/02 C#/Week01/Shapes.Solution/Shapes.Test/bin/Debug/netcoreapp2.2/Shapes.Tests.runtimeconfig.json
+/Users/tessa/Documents/Epicodus/02 C#/Week01/Shapes.Solution/Shapes.Test/bin/Debug/netcoreapp2.2/Shapes.Tests.runtimeconfig.dev.json
+/Users/tessa/Documents/Epicodus/02 C#/Week01/Shapes.Solution/Shapes.Test/bin/Debug/netcoreapp2.2/Shapes.Tests.dll
+/Users/tessa/Documents/Epicodus/02 C#/Week01/Shapes.Solution/Shapes.Test/bin/Debug/netcoreapp2.2/Shapes.Tests.pdb
+/Users/tessa/Documents/Epicodus/02 C#/Week01/Shapes.Solution/Shapes.Test/bin/Debug/netcoreapp2.2/Shapes.dll
+/Users/tessa/Documents/Epicodus/02 C#/Week01/Shapes.Solution/Shapes.Test/bin/Debug/netcoreapp2.2/Shapes.pdb
+/Users/tessa/Documents/Epicodus/02 C#/Week01/Shapes.Solution/Shapes.Test/obj/Debug/netcoreapp2.2/Shapes.Tests.csprojAssemblyReference.cache
+/Users/tessa/Documents/Epicodus/02 C#/Week01/Shapes.Solution/Shapes.Test/obj/Debug/netcoreapp2.2/Shapes.Tests.csproj.CoreCompileInputs.cache
+/Users/tessa/Documents/Epicodus/02 C#/Week01/Shapes.Solution/Shapes.Test/obj/Debug/netcoreapp2.2/Shapes.Tests.AssemblyInfoInputs.cache
+/Users/tessa/Documents/Epicodus/02 C#/Week01/Shapes.Solution/Shapes.Test/obj/Debug/netcoreapp2.2/Shapes.Tests.AssemblyInfo.cs
+/Users/tessa/Documents/Epicodus/02 C#/Week01/Shapes.Solution/Shapes.Test/obj/Debug/netcoreapp2.2/Shapes.Tests.csproj.CopyComplete
+/Users/tessa/Documents/Epicodus/02 C#/Week01/Shapes.Solution/Shapes.Test/obj/Debug/netcoreapp2.2/Shapes.Tests.dll
+/Users/tessa/Documents/Epicodus/02 C#/Week01/Shapes.Solution/Shapes.Test/obj/Debug/netcoreapp2.2/Shapes.Tests.pdb

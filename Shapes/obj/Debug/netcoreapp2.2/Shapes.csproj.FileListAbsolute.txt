@@ -1,0 +1,9 @@
+/Users/tessa/Documents/Epicodus/02 C#/Week01/Shapes.Solution/Shapes/bin/Debug/netcoreapp2.2/Shapes.deps.json
+/Users/tessa/Documents/Epicodus/02 C#/Week01/Shapes.Solution/Shapes/bin/Debug/netcoreapp2.2/Shapes.dll
+/Users/tessa/Documents/Epicodus/02 C#/Week01/Shapes.Solution/Shapes/bin/Debug/netcoreapp2.2/Shapes.pdb
+/Users/tessa/Documents/Epicodus/02 C#/Week01/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.csprojAssemblyReference.cache
+/Users/tessa/Documents/Epicodus/02 C#/Week01/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.csproj.CoreCompileInputs.cache
+/Users/tessa/Documents/Epicodus/02 C#/Week01/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.AssemblyInfoInputs.cache
+/Users/tessa/Documents/Epicodus/02 C#/Week01/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.AssemblyInfo.cs
+/Users/tessa/Documents/Epicodus/02 C#/Week01/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.dll
+/Users/tessa/Documents/Epicodus/02 C#/Week01/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.pdb
